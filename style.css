@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    background-color: rgba(171, 172, 181, 0.947);
+}
+
+h2{
+    font-size: 25px;
+    border: 8px solid rgb(38, 19, 164);
+    color:rgb(203, 203, 23);
+}
+
+.a{
+    margin-top: 5%;
+    margin-left: 10%;
+    display: flex;
+    width: 80%;
+    background-color:rgb(38, 19, 164);
+    border: 12px solid rgb(200, 23, 20) ;
+    border-radius: 15px;
+    box-shadow: 6px 6px 6px #000;
+    font-size: 15px;
+  }
+
+  .b{
+    margin-left: 4%;
+    display: flex;
+    width: 92%;
+    border-bottom: 12px solid rgb(200, 23, 20) ;
+  }
+
+a{
+  font-size: 30px;
+}
